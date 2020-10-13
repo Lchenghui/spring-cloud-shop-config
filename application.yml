@@ -5,10 +5,10 @@ spring:
 ---
 spring:
   profiles: dev
-    application:
-      name: spring-cloud-shop-config-dev
+  application:
+    name: spring-cloud-shop-config-dev
 ---
 spring:
   profiles: test
-    application:
-      name: spring-cloud-shop-config-test
+  application:
+    name: spring-cloud-shop-config-test
