@@ -6,9 +6,9 @@ spring:
 spring:
   profiles: dev
     application:
-      name: config-service-dev
+      name: spring-cloud-shop-config-dev
 ---
 spring:
   profiles: test
     application:
-      name: config-service-test
+      name: spring-cloud-shop-config-test
